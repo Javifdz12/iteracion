@@ -1,4 +1,5 @@
 # iteracion
+ejercicio 6:
 
 Se quiere conservar el historial de los movimientos mensuales en una cuenta corriente.
 
