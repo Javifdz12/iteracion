@@ -26,7 +26,7 @@ Ejercicio 7: Edición de un número entero
 
 Cuando la base es superior a 36, se puede utilizar la representación de los números en base diez, pero separando cada cifra de la representación del número en base B mediante un separador convenido, por ejemplo, un punto. Eso es lo que se usa para expresar, por ejemplo, la dirección IP de un host en una red con IPv4. Así, por ejemplo, la representación en base 256 de 3000, expresada aquí en base diez, se escribirá: 11 184256 = 3000diez.
 
-Este ejercicio está completamente resuelto en el capítulo «Edición de un número». 
+Este ejercicio está completamente resuelto en el capítulo «Edición de un número».
 
 Ejercicio 8: Análisis de una cadena de caracteres
 
@@ -36,7 +36,7 @@ Ejercicio 8: Análisis de una cadena de caracteres
 
 Sea una cadena de caracteres con distintas partes separadas por un carácter SEPARADOR específico. El ejemplo que aparece aquí debajo representa una cadena de este tipo, donde el carácter separador es dos puntos ’:’.
 
-Este es un:ejemplo : de cadena a analizar: 
+Este es un:ejemplo : de cadena a analizar:
 Se quieren separar las distintas partes y situarlas en una tabla de cadenas de caracteres. Para el ejemplo que aparece antes, se quiere obtener la tabla siguiente:
 
 n.°
@@ -192,7 +192,7 @@ Ejercicio 11: mcd de dos números enteros
 
 
 
-El algoritmo que permite determinar el máximo común divisor de dos números enteros también se estudia en el capítulo «Recursividad», durante el estudio del tipoFRACCIÓN. 
+El algoritmo que permite determinar el máximo común divisor de dos números enteros también se estudia en el capítulo «Recursividad», durante el estudio del tipoFRACCIÓN.
 
 1. Dar una versión iterativa del algoritmo de Euclides para el cálculo del mcd de dos números enteros.
 
@@ -212,5 +212,5 @@ Un número entero natural es un cuadrado perfecto si es el cuadrado de un númer
 
 La raíz cuadrada entera de un número entero n ≥ 0 es el único número enteror ≥ 0 definido por:
 
-r2 ≤ n < (r + 1)2 
+r2 ≤ n < (r + 1)2
 2. Escribir el algoritmo de cálculo de la raíz cuadrada entera de un número entero.
