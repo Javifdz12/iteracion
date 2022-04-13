@@ -1,4 +1,7 @@
 # iteracion
+
+link:https://github.com/Javifdz12/iteracion.git
+
 ejercicio 6:
 
 Se quiere conservar el historial de los movimientos mensuales en una cuenta corriente.
